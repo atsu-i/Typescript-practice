@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/atsu-i/Typescript-practice/issues"
   },
-  "homepage": "https://github.com/atsu-i/Typescript-practice#readme"
+  "homepage": "https://github.com/atsu-i/Typescript-practice#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
